@@ -107,3 +107,4 @@ venv.bak/
 documents.txt
 document_contents.json
 bkp*
+.vscode/
